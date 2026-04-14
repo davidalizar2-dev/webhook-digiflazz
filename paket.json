@@ -1,0 +1,11 @@
+{
+  "name": "webhook-digiflazz",
+  "version": "1.0.0",
+  "main": "indeks.js",
+  "scripts": {
+    "start": "node indeks.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
